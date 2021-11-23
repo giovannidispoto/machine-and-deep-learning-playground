@@ -1,1 +1,5 @@
+# {Machine, Deep} Learning Playground
+In this repository you will find some of my personal experiment done with ML/DL techniques in order to improve my confidence with them or curiosity in the outcome.
 
+* [Knowledge Distillation](https://github.com/giovannidispoto/machine-and-deep-learning-playground/blob/main/knowledge_distillation.ipynb) notebook contains an implementation of that technique presented into the paper [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531) by Hinton et al.
+* [Diabetes](https://github.com/giovannidispoto/machine-and-deep-learning-playground/blob/main/Diabetes.ipynb) notebook contains an implementation of a Machine Learning pipeline over the [Prima Indian Diabetes Dataset](https://www.kaggle.com/uciml/pima-indians-diabetes-database), with a little of Data Exploration, Feature Selection with some properties of models like LASSO regularization or Wrapper methods like recoursive feature elimination, Hyperparameters optimization with Random Search and ensemble methods of a SVM, Random Forest and Naive Bayes with stacking ensemble. 
